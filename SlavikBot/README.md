@@ -1,5 +1,3 @@
-# losyah_amazing_bot
- 
 Репозиторий содержит скрипт для запуска телеграм бота. 
 Для запуска необходимо предварительно установить <a href="https://lmstudio.ai/">LM Studio</a> и 
 загрузить с платформы <a href="https://huggingface.co/">Hugging Face</a> языковую модель meta-llama-3.1-8b-instruct.
