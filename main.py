@@ -4,7 +4,7 @@ import jsons
 from Class_ModelResponse import ModelResponse
 
 # Замените 'YOUR_BOT_TOKEN' на ваш токен от BotFather
-API_TOKEN = '7619047329:AAGRqXE9nbEra77X3D6MdDJTB0COOQUTd6s'
+API_TOKEN = 'YOUR_BOT_TOKEN'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Хранилище контекста для каждого пользователя
